@@ -1,4 +1,4 @@
-# Urban Tracking API
+# Urban Tracking
 
 This project is a REST API designed for tracking public transport vehicles in real time. The API provides real-time location updates for both drivers and users, enabling them to track the status of public transport in a city. This project was built as part of an academic assignment to explore real-time communication, geolocation services, and dashboard development.
 
